@@ -1,12 +1,11 @@
 #include <iostream>
 #include <cstdlib>
 using namespace std;
+void convertTemperature(double in,char ti);
 int main()
 {
     /* code */
     //华氏温度=摄氏度*9/5+32
-    const int n=32;
-    const double r=9.0/5;
     char a;
     cout << "请输入华氏度或者摄氏度，格式xx.x c/f，q退出"<< endl;
     while (1)
@@ -19,8 +18,8 @@ int main()
             cout << "程序结束" <<endl;
             exit(0);
         }
-        double in,out;
-        char ti,to;
+        double in;
+        char ti;
         cin >> in >> ti;
         if (cin.good()==0)
         {
@@ -28,7 +27,19 @@ int main()
         }
         else
         {
-            switch(ti)
+            convertTemperature(in,ti);
+        }
+        cout << "请输入华氏度或者摄氏度，格式xx.x c/f，q退出"<< endl;
+    }
+    return 0;
+}
+void convertTemperature(double in,char ti)
+{
+    const int n=32;
+    const double r=9.0/5;
+    double out;
+    char to;
+    switch(ti)
             {
                 case('C'):
                 case('c'):
@@ -46,8 +57,4 @@ int main()
                 cerr<<"输入格式错误，请重新输入！"<<endl;
                 break;
             }
-        }
-        cout << "请输入华氏度或者摄氏度，格式xx.x c/f，q退出"<< endl;
-    }
-    return 0;
 }
