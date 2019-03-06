@@ -1,1 +1,3 @@
-lcl    1    m
+lcl    0    m
+xt    2    m
+d    2    f
