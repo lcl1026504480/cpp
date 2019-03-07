@@ -10,6 +10,5 @@ int main(int argc, char const *argv[])
     b(a);
     cout << a[0];
     for (int i = 0; i < 5; ++i);
-    i=5;
     return 0;
 }
