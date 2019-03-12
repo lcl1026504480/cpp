@@ -1,24 +1,31 @@
 #include <iostream>
 using namespace std;
-    class Test
+class Test
+{
+public:
+    static const int math=10;
+    double chinese=0;
+    double english=0;
+    void cheat()
     {
-    public:
-        double math=0;
-        double chinese=0;
-        double english=0;
-        void cheat()
-        {
-            cout <<"ä½ ä½œå¼Šè¢«å‘çŽ°äº†!GG"<<endl;
-        }
-        void rank(int);
-    } mytest;
+        cout <<"Äã×÷±×±»·¢ÏÖÁË!GG"<<endl;
+    }
+    void rank(int);
+} mytest;
 void Test::rank (int n)
     {
-        cout <<"ä½ è€ƒäº†ç¬¬"<<n<<"å!NB"<<endl;
+        cout <<"Äã¿¼ÁËµÚ"<<n<<"Ãû!NB"<<endl;
     }
 int main(int argc, char const *argv[])
 {
-
-
+    // mytest.rank(1);
+    cout << mytest.math <<endl;
+    // mytest.chinese=10;
+    // cout << mytest.chinese <<endl;
+    // Test m;
+    // m=mytest;
+    // cout << m.chinese;
+    // // Test::rank(1);
+    // cout << Test::math;
     return 0;
 }
