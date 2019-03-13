@@ -5,11 +5,7 @@ int main(int argc, char const *argv[])
 {
     /* code */
     ofstream p("file.txt");
-    if(!p)
-    {
-        cout <<"open the file!";
-        p<<1234;
-    }
-    p.close();
+    printf("%d\n",!p );
+    cout <<(!p);
     return 0;
 }
