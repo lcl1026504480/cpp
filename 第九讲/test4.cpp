@@ -2,15 +2,22 @@
 using namespace std;
 class A
 {
-public:
+private:
     int n=0;
-    A(int n)
+    p()
     {
-        cout <<this->n;
+        cout <<"A";
     }
+};
+class B:public A
+{
+public:
+    int n=10;
+    int m=A::n;
 };
 int main(int argc, char const *argv[])
 {
-    A a(1);
+    B b;
+    cout << b.n << b.m;
     return 0;
 }
