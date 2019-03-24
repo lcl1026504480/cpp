@@ -1,0 +1,1480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CMAKE_MA",
+				"CMAKE_MAKE_PROGRAM"
+			],
+			[
+				"set",
+				"set"
+			],
+			[
+				"add",
+				"add_executable"
+			],
+			[
+				"cmake_",
+				"cmake_minimum_required"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"ve",
+				"vector\tstandard header"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"cl",
+				"climits\tstandard header"
+			],
+			[
+				"f",
+				"factorial"
+			],
+			[
+				"M",
+				"m_nValue"
+			],
+			[
+				"n",
+				"m_nValue"
+			],
+			[
+				"B",
+				"Base1"
+			],
+			[
+				"Ba",
+				"Base1"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"num",
+				"num"
+			],
+			[
+				"nu",
+				"num"
+			],
+			[
+				"int",
+				"input2"
+			],
+			[
+				"c",
+				"cstdlib\tstandard header"
+			],
+			[
+				"rae",
+				"real"
+			],
+			[
+				"co",
+				"complex"
+			],
+			[
+				"com",
+				"complex_add"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"rea",
+				"real"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"d",
+				"derived"
+			],
+			[
+				"str",
+				"string\tstandard header"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"t",
+				"t1"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"h",
+				"head"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"ma",
+				"malloc"
+			],
+			[
+				"l",
+				"last"
+			],
+			[
+				"ne",
+				"newnode"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"se",
+				"sex"
+			],
+			[
+				"che",
+				"checkSystem"
+			],
+			[
+				"ptr",
+				"ptr1"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"ca",
+				"calc"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"cs",
+				"case"
+			],
+			[
+				"im",
+				"imwrite\tfunction"
+			],
+			[
+				"TH",
+				"THRESH_OTSU\tinstance"
+			],
+			[
+				"COL",
+				"COLOR_BGR2RGB\tinstance"
+			],
+			[
+				"bit",
+				"bitwise_or\tfunction"
+			],
+			[
+				"mx",
+				"mtx\tstatement"
+			],
+			[
+				"COLO",
+				"COLOR_BGR2RGB\tinstance"
+			],
+			[
+				"ini",
+				"initUndistortRectifyMap\tfunction"
+			],
+			[
+				"rev",
+				"rvecs\tstatement"
+			],
+			[
+				"get",
+				"getcolor\tfunction"
+			],
+			[
+				"cv",
+				"cvtColor\tfunction"
+			],
+			[
+				"oj",
+				"objp\tstatement"
+			],
+			[
+				"obj",
+				"objp\tstatement"
+			],
+			[
+				"corns",
+				"corners2\tstatement"
+			],
+			[
+				"W",
+				"WINDOW_NORMAL\tinstance"
+			],
+			[
+				"std",
+				"stdlib.h\tstandard header"
+			],
+			[
+				"mo",
+				"MORPH_OPEN\tinstance"
+			],
+			[
+				"mog",
+				"morphologyEx\tfunction"
+			],
+			[
+				"fa",
+				"fgmask\tstatement"
+			],
+			[
+				"fg",
+				"fgmask\tstatement"
+			],
+			[
+				"creatb",
+				"createBackgroundSubtractorKNN\tfunction"
+			],
+			[
+				"img",
+				"img1\tstatement"
+			],
+			[
+				"gr",
+				"gray2\tstatement"
+			],
+			[
+				"zero",
+				"zeros_like\tfunction"
+			],
+			[
+				"gra",
+				"gray1\tstatement"
+			],
+			[
+				"cre",
+				"createStitcher\tfunction"
+			],
+			[
+				"S",
+				"Stitcher\tclass"
+			],
+			[
+				"INTER_",
+				"INTER_NEAREST\tinstance"
+			],
+			[
+				"wa",
+				"waitKeyEx\tfunction"
+			],
+			[
+				"so",
+				"sort\tfunction"
+			],
+			[
+				"ad",
+				"addWeighted\tfunction"
+			],
+			[
+				"L",
+				"LMEDS\tinstance"
+			],
+			[
+				"NO",
+				"NORM_MINMAX\tinstance"
+			],
+			[
+				"ORB",
+				"ORB_create\tfunction"
+			],
+			[
+				"BR",
+				"BRISK_create\tfunction"
+			],
+			[
+				"O",
+				"ORB_create\tfunction"
+			],
+			[
+				"det",
+				"detectAndCompute\tfunction"
+			],
+			[
+				"FastFeatureDetector_",
+				"FastFeatureDetector_create\tfunction"
+			],
+			[
+				"gett",
+				"getTickFrequency\tfunction"
+			],
+			[
+				"di",
+				"dilate\tfunction"
+			],
+			[
+				"T",
+				"THRESH_BINARY\tinstance"
+			],
+			[
+				"edge",
+				"edgey\tstatement"
+			],
+			[
+				"ede",
+				"edgex\tstatement"
+			],
+			[
+				"CV_",
+				"CV_32F\tinstance"
+			],
+			[
+				"THRESH_",
+				"THRESH_BINARY\tinstance"
+			],
+			[
+				"I",
+				"I3\tstatement"
+			],
+			[
+				"fft",
+				"fftshift\tfunction"
+			],
+			[
+				"F",
+				"FI\tstatement"
+			],
+			[
+				"nor",
+				"normalize\tfunction"
+			],
+			[
+				"ims",
+				"imshow\tfunction"
+			],
+			[
+				"mu",
+				"multiply\tinstance"
+			],
+			[
+				"Gau",
+				"getGaussianKernel\tfunction"
+			],
+			[
+				"con",
+				"convertScaleAbs\tfunction"
+			],
+			[
+				"COLOR_BGR2H",
+				"COLOR_BGR2HSV\tinstance"
+			],
+			[
+				"COLOR_",
+				"COLOR_BGR2GRAY\tinstance"
+			],
+			[
+				"MORPH_",
+				"MORPH_ELLIPSE\tinstance"
+			],
+			[
+				"MORPH_E",
+				"MORPH_ERODE\tinstance"
+			],
+			[
+				"MORPH_C",
+				"MORPH_CLOSE\tinstance"
+			],
+			[
+				"MO",
+				"MORPH_CLOSE\tinstance"
+			],
+			[
+				"arr",
+				"array\tfunction"
+			],
+			[
+				"bo",
+				"bottommostx\tstatement"
+			],
+			[
+				"DIST_",
+				"DIST_L1\tinstance"
+			],
+			[
+				"Box",
+				"boxPoints\tfunction"
+			],
+			[
+				"min",
+				"minAreaRect\tfunction"
+			],
+			[
+				"ap",
+				"approxPolyDP\tfunction"
+			],
+			[
+				"tr",
+				"True\tkeyword"
+			],
+			[
+				"ar",
+				"arcLength\tfunction"
+			],
+			[
+				"u",
+				"uint8\tmodule"
+			],
+			[
+				"RETR_",
+				"RETR_FLOODFILL\tinstance"
+			],
+			[
+				"CHAIN_APPROX_",
+				"CHAIN_APPROX_SIMPLE\tinstance"
+			],
+			[
+				"CHAIN_APPROX_TC89_",
+				"CHAIN_APPROX_TC89_L1\tinstance"
+			],
+			[
+				"CHAIN_",
+				"CHAIN_APPROX_TC89_KCOS\tinstance"
+			],
+			[
+				"CHAI",
+				"CHAIN_APPROX_SIMPLE\tinstance"
+			],
+			[
+				"RET",
+				"RETR_EXTERNAL\tinstance"
+			],
+			[
+				"Ad",
+				"ADAPTIVE_THRESH_GAUSSIAN_C\tinstance"
+			],
+			[
+				"CO",
+				"COLOR_BGR2GRAY\tinstance"
+			],
+			[
+				"line",
+				"lines\tstatement"
+			],
+			[
+				"hou",
+				"HoughLines\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# ifndef FRACTION_H\n#define FRACTION_H\n//定义计算分数的类\n#include <iostream>\nusing namespace std;\nclass fraction;\nclass fraction\n{\nprivate:\n    int num,den;\npublic:\n    friend ostream & operator<<(ostream &os,fraction f);\n    fraction(int a=1,int b=1):num(a),den(b)\n    {\n    }\n    fraction output(fraction f)\n    {\n        int m,n;\n        m=(f.num>0)?f.num:-f.num;\n        n=(f.den>0)?f.den:-f.den;\n        if (!m)\n            return fraction(0,1);\n        if(m<n)\n        {\n            m^=n;\n            n^=m;\n            m^=n;\n        }\n        int r=m%n;\n        while(r)\n        {//用n来除以m，直到m被n整除，循环终止，此时r的值为0，在c++中只有0才为假，任何非0的值都判断为真\n        m=n;//辗转相除法的核心就是用较大的数m去除较小的数n，如果刚好能整除，则m与n的最大公约数为n，如果不能整除，则将n的值赋给m，余数r赋给n，再进行下一次的相除，以此循环，直到整除为止\n        n=r;\n        r=m%n;\n        }\n        return fraction(f.num/n,f.den/n);\n    }\n    fraction operator+(fraction f)\n    {\n        return output(fraction(num*f.den+f.num*den,den*f.den));\n    }\n    fraction operator-(fraction f)\n    {\n        return output(fraction(num*f.den-f.num*den,den*f.den));\n    }\n    fraction operator*(fraction f)\n    {\n        return output(fraction(num*f.num,den*f.den));\n    }\n    fraction operator/(fraction f)\n    {\n        return output(fraction(num*f.den,den*f.num));\n    }\n};\n//重载<<\nostream & operator<<(ostream &os,fraction f);\nfraction calc(int &c,fraction &f1,fraction &f2);\n//分子输入函数\nvoid numinput(int &n1);\n//分母输入函数\nvoid deninput(int &d1);\n//选择四则运算\nvoid choose(int &c);\n//第一种计算模式输入函数\nvoid input1(int &n1,int &n2,int &d1,int &d2,fraction &f1,fraction &f2,fraction &f3,int &c);\n//第二种计算模式输入函数\nvoid input2(int &n1,int &n2,int &d1,int &d2,fraction &f1,fraction &f2,fraction &f3,int &c);\n//选择后续功能\nvoid fun(int &c,int &c1,int &n1,int &n2,int &d1,int &d2,fraction &f1,fraction &f2,fraction &f3);\n#endif\n\n\n",
+			"file": "fraction.h",
+			"file_size": 2023,
+			"file_write_time": 131978647815680820,
+			"settings":
+			{
+				"buffer_size": 1775,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "#include \"iostream\"\n#include <cstdlib>\n#include \"./fraction.h\"\n#include \"fraction.hpp\"\nusing namespace std;\nint main(int argc, char const *argv[])\n{\n    /* code */\n    int n1,n2,d1,d2,c,c1;\n    fraction f1,f2,f3;\n    cout <<\"欢迎进入分数四则运算系统，请根据提示操作!\"<<endl;\n    cout <<\"------------------------------\"<<endl;\n    input2(n1,n2,d1,d2,f1,f2,f3,c);\n    while(1)\n    {\n        fun(c,c1,n1,n2,d1,d2,f1,f2,f3);\n    }\n    return 0;\n}",
+			"file": "fraction2.cpp",
+			"file_size": 460,
+			"file_write_time": 131978747840474104,
+			"settings":
+			{
+				"buffer_size": 422,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "cmake_minimum_required(VERSION 2.6)\nset(CMAKE_C_COMPILER \"gcc\")\nset(CMAKE_CXX_COMPILER \"g++\")\nset(CMAKE_MAKE_PROGRAM  \"mingw32-make\")\nproject(fraction)\nadd_executable(fraction fraction2,cxx)",
+			"file": "CMakeLists.txt",
+			"file_size": 193,
+			"file_write_time": 131978778954061414,
+			"settings":
+			{
+				"buffer_size": 190,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CMakeCache.txt",
+			"settings":
+			{
+				"buffer_size": 10800,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					"RunInCommand"
+				]
+			],
+			[
+				"Packages/User/cpp.sublime-build",
+				"RunInCommand"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					"RunInCommand"
+				]
+			],
+			[
+				"Packages/User/cpp.sublime-build",
+				"RunInCommand"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/cpp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					"RunInCommand"
+				]
+			],
+			[
+				"Packages/User/cpp.sublime-build",
+				"RunInCommand"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"adr",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sy",
+				"Set Syntax: Python"
+			],
+			[
+				"Package Control: R",
+				"Package Control: Remove Channel"
+			],
+			[
+				"synp",
+				"Set Syntax: Python"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build With: Python"
+			],
+			[
+				"syn",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 387.0,
+		"history":
+		[
+			"import socket;socket.socket(socket.AF_INET,socket.SOCK_STREAM).connect((\"localhost\",9311))",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print(0)",
+			"import socket;socket.socket(socket.AF_INET,socket.SOCK_STREAM).connect(('localhost',8042))",
+			"import socket;socket.socket(socket.AF_INET,socket.SOCK_STREAM).connect(('localhost','8042'))",
+			"import socket;socket.socket(socket.AF_INET,socket.SOCK_STREAM).connect('localhost','8042')",
+			"from PyQt5.QtWidgets import QApplication, QWidget",
+			"print(sys.argv)",
+			"print2",
+			"print(0)",
+			"python",
+			"syn.py",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/lenovouser/Desktop/cpp/第十七讲/fraction"
+	],
+	"file_history":
+	[
+		"/C/Users/lenovouser/Desktop/cpp/第十七讲/fraction/CMakeCache.txt",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/CMakeEditor/README.md",
+		"/C/Users/lenovouser/Desktop/cpp/第十七讲/test.cpp",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+		"/C/Users/lenovouser/Desktop/cpp/第十七讲/fraction/fraction.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/fraction2.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十七讲/fraction/fraction.sublime-project",
+		"/C/Users/lenovouser/Desktop/cpp/第十七讲/fraction/fraction2.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十七讲/fraction/fraction.hpp",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/lenovouser/Desktop/cpp/第十六讲/translate.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十六讲/copy.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十六讲/example2.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十六讲/example1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十六讲/test.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十五讲/func.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十五讲/struct.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十五讲/newexception.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十五讲/triangle.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十五讲/throwfun.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十五讲/char.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十五讲/test.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十五讲/test1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十五讲/former.cpp",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/header/C++.tmpl",
+		"/C/Users/lenovouser/Desktop/cpp/test.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/Lesson14/tt.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/Lesson14/t.cpp",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/body/C++.tmpl",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/header/ActionScript.tmpl",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Side Bar.sublime-menu",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Main.sublime-menu",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Default (Windows).sublime-keymap",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Context.sublime-menu",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/C/Users/lenovouser/Desktop/cpp/Lesson14/t.cc",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/User/FileHeader.sublime-settings",
+		"/C/Users/lenovouser/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/lenovouser/Desktop/cpp/Lesson14/t1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/Lesson14/fileheader.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/Lesson14/factorial.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/Lesson14/factorial2.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/Lesson14/example.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/Lesson14/example,cpp",
+		"/c/users/lenovouser/desktop/cpp/lesson14/test.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/Lesson14/test.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十四讲/xujicheng.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十四讲/test.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十四讲/test1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十四讲/duojicheng.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/fraction.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/function.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/homework.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/complex3.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/complex1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/oot.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/test2.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/wuxianxunhuan.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/complex.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/operatorchongzai.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/test.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/chongzai.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/test1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十三讲/chongzai.py",
+		"/C/Users/lenovouser/Desktop/cpp/第十二讲/xigouhanshu.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十二讲/duotai.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十二讲/test1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十二讲/test.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十二讲/override.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十二讲/virtual.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十二讲/chunxufun.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十二讲/staticmemeber.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十一讲/const.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十一讲/test.c",
+		"/C/Users/lenovouser/Desktop/cpp/第十一讲/static.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十一讲/compare.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十一讲/test.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十一讲/firendfun.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十一讲/friendclass.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/friendclass.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/friendclass",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/test4.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/ways.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/son.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/protect.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/accesscontrol.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/test3.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/test2.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/example.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/this.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/xioguqi.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第十讲/fileop.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/gouzaoqi1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/class1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/file.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/test.py",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/test1.c",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/test.c",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/a,c",
+		"/C/Users/lenovouser/Desktop/cpp/第九讲/test.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/lesson8/listreverse2.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/lesson8/liststack.cpp",
+		"/c/users/lenovouser/desktop/cpp/lesson8/testdigui.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/lesson8/listreverse1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/lesson8/test1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/lesson8/testdigui.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/lesson8/test.py",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/testdigui.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/listreverse1.cpp",
+		"/C/Users/lenovouser/Desktop/test.py",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/test.py",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/test.c",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/listdelete2.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/doublelistdel2.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/doublelistdel1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/doublelistadd3.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/doublelistadd2.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/doublelistadd1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/doublelist.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/test.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/listchange.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/listdelete3.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/listdelete1.cpp",
+		"/C/Users/lenovouser/Desktop/cpp/第八讲/list1.cpp"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fraction.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1573,
+								1573
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								227,
+								3,
+								23,
+								11,
+								0,
+								42,
+								1,
+								121,
+								99,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"force_encoding": "GBK",
+							"in_converting": true,
+							"is_init_dirty_state": false,
+							"origin_encoding": "GBK",
+							"revert_to_scratch": true,
+							"side_bar_folders_auto_load_folder": 1,
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1439.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "fraction2.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								227,
+								3,
+								23,
+								11,
+								8,
+								35,
+								0,
+								120,
+								1,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"force_encoding": "GBK",
+							"in_converting": true,
+							"is_init_dirty_state": true,
+							"origin_encoding": "GBK",
+							"revert_to_scratch": true,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "CMakeLists.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								227,
+								3,
+								24,
+								10,
+								37,
+								41,
+								12,
+								178,
+								120,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"is_init_dirty_state": true,
+							"open_with_edit": true,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/SublimeCMakeEditor/CMakeEditor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "CMakeCache.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								227,
+								3,
+								24,
+								13,
+								49,
+								24,
+								11,
+								149,
+								109,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 265.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/cpp.sublime-build",
+	"project": "fraction.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\lenovouser\\Desktop\\test.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
