@@ -1,0 +1,3 @@
+C:/Users/lenovouser/Desktop/cpp/Lesson_17/fraction/CMakeFiles/fraction.dir
+C:/Users/lenovouser/Desktop/cpp/Lesson_17/fraction/CMakeFiles/edit_cache.dir
+C:/Users/lenovouser/Desktop/cpp/Lesson_17/fraction/CMakeFiles/rebuild_cache.dir
