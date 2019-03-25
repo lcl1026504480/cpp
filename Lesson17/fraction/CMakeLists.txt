@@ -1,7 +1,0 @@
-cmake_minimum_required(VERSION 3.4)
-set(CMAKE_C_COMPILER "gcc")
-add_compile_options(-std=c++11)
-set(CMAKE_CXX_COMPILER "g++")
-set(CMAKE_MAKE_PROGRAM  "mingw32-make")
-project(fraction)
-add_executable(fraction fraction2.cpp)
