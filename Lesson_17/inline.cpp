@@ -1,8 +1,8 @@
 /*
 * @Author: lcl1026504480
 * @Date:   2019-03-25 14:07:57
-* @Last Modified by:   lcl1026504480
-* @Last Modified time: 2019-03-25 14:20:25
+* @Last Modified by:   lenovouser
+* @Last Modified time: 2019-03-26 09:48:16
 */
 #include <iostream>
 #include <string>
@@ -17,7 +17,6 @@ inline int fun(int n)
 int main(int argc, char const *argv[])
 {
     /* code */
-    cout <<t(5+1)<<endl;
-    cout <<fun(5+1);
+    cout <<(int *)fun;
     return 0;
 }
